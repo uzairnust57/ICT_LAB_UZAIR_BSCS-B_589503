@@ -1,2 +1,1 @@
-Storage Estimator
-Storage-Estimator feature version
+Storage Estimator - Main Version
